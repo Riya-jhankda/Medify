@@ -45,7 +45,19 @@
 <img src="https://github.com/Riya-jhankda/Medify/assets/87324811/e5b2debe-18de-409e-86f4-b0c1289a1e8d" width="200">
 
 
+## Installation
+To run this application, you will need:
+- **Android Studio**
+- **Kotlin plugin**
+- **Clone the repository**
 
+**bash**
+### Copy code
+git clone "https://github.com/Riya-jhankda/Medify.git"
+
+**Open the project in Android Studio.**
+
+Build and run the application on an Android device or emulator.
 
 
 
